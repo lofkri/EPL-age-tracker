@@ -56,6 +56,7 @@ def api_get(path, params=None, retries=3):
         if resp.status_code == 200:
             payload = resp.json()
             if payload.get("errors"):
+                # API-Football returns 200 with an "errors" object/list on logical errors
                 errs = payload["errors"]
                 if errs:
                     print(f"WARNING: API errors for {path} {params}: {errs}", file=sys.stderr)
@@ -92,6 +93,7 @@ def resolve_league_and_season(config):
         raise RuntimeError("Could not resolve Premier League from /leagues")
     league_entry = responses[0]
     league_id = league_entry["league"]["id"]
+    # Find the season marked current=true, else the max year
     seasons = league_entry.get("seasons", [])
     current = [s for s in seasons if s.get("current")]
     season_year = current[0]["year"] if current else max(s["year"] for s in seasons)
@@ -120,46 +122,72 @@ def refresh_squads(league_id, season, players_cache, force=False):
         return players_cache
     print(f"Refreshing squads for {len(teams)} teams...")
 
+    any_found = False
     for team in teams:
         team_id = team["id"]
         team_name = team["name"]
-        page = 1
-        while True:
-            payload = api_get("/players", {"team": team_id, "season": season, "page": page})
-            for entry in payload.get("response", []):
-                p = entry["player"]
-                birth_date = (p.get("birth") or {}).get("date")
-                if not birth_date:
-                    continue
-                players_cache[str(p["id"])] = {
-                    "name": p["name"],
-                    "birth_date": birth_date,
-                    "team_id": team_id,
-                    "team_name": team_name,
-                }
-            paging = payload.get("paging", {})
-            if page >= paging.get("total", 1):
-                break
-            page += 1
+        found_for_team = fetch_team_roster(team_id, team_name, season, players_cache)
+        if not found_for_team:
+            # /players is often empty for a brand-new season before any stats exist
+            # for it yet. Birthdates don't change, so fall back to last season's
+            # roster just to get names/birthdates; match stats still use `season`.
+            print(f"  {team_name}: 0 players for season {season}, trying {season - 1}...")
+            found_for_team = fetch_team_roster(team_id, team_name, season - 1, players_cache)
+        print(f"  {team_name}: {found_for_team} players cached")
+        any_found = any_found or found_for_team > 0
+
+    if not any_found:
+        print("WARNING: found 0 players across all teams (current and prior season) - "
+              "leaving last_refresh unset so the next run retries.")
+        return players_cache
 
     players_cache.setdefault("_meta", {})["last_refresh"] = date.today().isoformat()
     save_json(PLAYERS_PATH, players_cache)
     return players_cache
 
 
+def fetch_team_roster(team_id, team_name, season, players_cache):
+    """Fetch one team's roster+birthdates for a given season. Returns count found."""
+    count = 0
+    page = 1
+    while True:
+        payload = api_get("/players", {"team": team_id, "season": season, "page": page})
+        for entry in payload.get("response", []):
+            p = entry["player"]
+            birth_date = (p.get("birth") or {}).get("date")
+            if not birth_date:
+                continue
+            players_cache[str(p["id"])] = {
+                "name": p["name"],
+                "birth_date": birth_date,
+                "team_id": team_id,
+                "team_name": team_name,
+            }
+            count += 1
+        paging = payload.get("paging", {})
+        if page >= paging.get("total", 1):
+            break
+        page += 1
+    return count
+
+
 def fetch_missing_player(player_id, players_cache, season):
-    """Fallback lookup for a player not in the squad cache (e.g. a mid-season signing)."""
-    payload = api_get("/players", {"id": player_id, "season": season})
-    resp = payload.get("response", [])
-    if not resp:
-        return None
-    p = resp[0]["player"]
-    birth_date = (p.get("birth") or {}).get("date")
-    if not birth_date:
-        return None
-    info = {"name": p["name"], "birth_date": birth_date, "team_id": None, "team_name": None}
-    players_cache[str(player_id)] = info
-    return info
+    """Fallback lookup for a player not in the squad cache (e.g. a mid-season signing).
+    Tries the given season first, then a couple of prior seasons, since birthdates
+    don't change but per-season stats records might not exist yet."""
+    for try_season in (season, season - 1, season - 2):
+        payload = api_get("/players", {"id": player_id, "season": try_season})
+        resp = payload.get("response", [])
+        if not resp:
+            continue
+        p = resp[0]["player"]
+        birth_date = (p.get("birth") or {}).get("date")
+        if not birth_date:
+            continue
+        info = {"name": p["name"], "birth_date": birth_date, "team_id": None, "team_name": None}
+        players_cache[str(player_id)] = info
+        return info
+    return None
 
 
 def age_in_days(birth_date_str, on_date_str):
@@ -173,7 +201,7 @@ def days_to_years(days):
 
 
 def format_age(days):
-    years = days // 365
+    years = days // 365  # not exact calendar years, but a readable approximation
     remainder_days = days - years * 365
     return f"{int(years)}y {int(remainder_days)}d"
 
@@ -213,7 +241,7 @@ def process_fixture(fixture, players_cache, season):
             if info is None:
                 info = fetch_missing_player(p["id"], players_cache, season)
             if info is None or not info.get("birth_date"):
-                continue
+                continue  # can't compute age without a birthdate
 
             days_old = age_in_days(info["birth_date"], match_date)
 
@@ -307,7 +335,7 @@ def main():
         rows = process_fixture(fixture, players_cache, season)
         matches.extend(rows)
         new_rows_count += len(rows)
-        save_json(PLAYERS_PATH, players_cache)
+        save_json(PLAYERS_PATH, players_cache)  # persist any fallback lookups promptly
         save_json(MATCHES_PATH, matches)
 
     summary = recompute_season_summary(matches)
