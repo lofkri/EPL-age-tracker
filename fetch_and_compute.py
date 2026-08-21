@@ -20,9 +20,9 @@ and idempotent:
   data/matches.json        - one row per (fixture, team) already processed
   data/season_summary.json - recomputed every run from matches.json
 
-Requires the API_FOOTBALL_KEY environment variable (a free api-football.com
-key). Designed to run inside GitHub Actions, which has unrestricted outbound
-network access (unlike the sandbox that authored this script).
+Requires the API_FOOTBALL_KEY environment variable (a paid api-football.com
+key with current-season access). Designed to run inside GitHub Actions,
+which has unrestricted outbound network access.
 """
 import json
 import os
@@ -56,7 +56,6 @@ def api_get(path, params=None, retries=3):
         if resp.status_code == 200:
             payload = resp.json()
             if payload.get("errors"):
-                # API-Football returns 200 with an "errors" object/list on logical errors
                 errs = payload["errors"]
                 if errs:
                     print(f"WARNING: API errors for {path} {params}: {errs}", file=sys.stderr)
@@ -93,7 +92,6 @@ def resolve_league_and_season(config):
         raise RuntimeError("Could not resolve Premier League from /leagues")
     league_entry = responses[0]
     league_id = league_entry["league"]["id"]
-    # Find the season marked current=true, else the max year
     seasons = league_entry.get("seasons", [])
     current = [s for s in seasons if s.get("current")]
     season_year = current[0]["year"] if current else max(s["year"] for s in seasons)
@@ -113,7 +111,7 @@ def refresh_squads(league_id, season, players_cache, force=False):
             print(f"Squad cache is {days_since} day(s) old, skipping refresh.")
             return players_cache
 
-        teams_payload = api_get("/teams", {"league": league_id, "season": season})
+    teams_payload = api_get("/teams", {"league": league_id, "season": season})
     teams = [t["team"] for t in teams_payload.get("response", [])]
     if not teams:
         print("WARNING: /teams returned 0 teams (API error or plan restriction?) - "
@@ -175,7 +173,7 @@ def days_to_years(days):
 
 
 def format_age(days):
-    years = days // 365  # not exact calendar years, but a readable approximation
+    years = days // 365
     remainder_days = days - years * 365
     return f"{int(years)}y {int(remainder_days)}d"
 
@@ -215,7 +213,7 @@ def process_fixture(fixture, players_cache, season):
             if info is None:
                 info = fetch_missing_player(p["id"], players_cache, season)
             if info is None or not info.get("birth_date"):
-                continue  # can't compute age without a birthdate
+                continue
 
             days_old = age_in_days(info["birth_date"], match_date)
 
@@ -309,7 +307,7 @@ def main():
         rows = process_fixture(fixture, players_cache, season)
         matches.extend(rows)
         new_rows_count += len(rows)
-        save_json(PLAYERS_PATH, players_cache)  # persist any fallback lookups promptly
+        save_json(PLAYERS_PATH, players_cache)
         save_json(MATCHES_PATH, matches)
 
     summary = recompute_season_summary(matches)
