@@ -113,8 +113,13 @@ def refresh_squads(league_id, season, players_cache, force=False):
             print(f"Squad cache is {days_since} day(s) old, skipping refresh.")
             return players_cache
 
-    teams_payload = api_get("/teams", {"league": league_id, "season": season})
+        teams_payload = api_get("/teams", {"league": league_id, "season": season})
     teams = [t["team"] for t in teams_payload.get("response", [])]
+    if not teams:
+        print("WARNING: /teams returned 0 teams (API error or plan restriction?) - "
+              "leaving squad cache as-is and NOT stamping last_refresh, so the next "
+              "run will retry instead of treating this as a fresh, empty cache.")
+        return players_cache
     print(f"Refreshing squads for {len(teams)} teams...")
 
     for team in teams:
