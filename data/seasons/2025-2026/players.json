@@ -1,0 +1,4586 @@
+{
+  "10135": {
+    "birth_date": "1997-11-16",
+    "name": "Bruno Guimar\u00e3es",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "10329": {
+    "birth_date": "2001-09-26",
+    "name": "Jo\u00e3o Pedro",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "106725": {
+    "birth_date": "2001-02-22",
+    "name": "K. Lewis-Potter",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "106835": {
+    "birth_date": "1997-05-20",
+    "name": "K. Mitoma",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "1096": {
+    "birth_date": "2000-10-25",
+    "name": "D. Szoboszlai",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "1100": {
+    "birth_date": "2000-07-21",
+    "name": "E. Haaland",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "110153": {
+    "birth_date": "2000-11-23",
+    "name": "T. Arokodare",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "1119": {
+    "birth_date": "1998-04-17",
+    "name": "K. Ajer",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "1125": {
+    "birth_date": "1995-02-22",
+    "name": "R. Christie",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "1135": {
+    "birth_date": "1998-01-16",
+    "name": "O. \u00c9douard",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "1145": {
+    "birth_date": "1999-05-25",
+    "name": "I. Konat\u00e9",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "1146": {
+    "birth_date": "1997-11-01",
+    "name": "N. Mukiele",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "1150": {
+    "birth_date": "1999-02-14",
+    "name": "T. Adams",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "115589": {
+    "birth_date": "2003-05-31",
+    "name": "B. \u0160e\u0161ko",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "1161": {
+    "birth_date": "2000-07-28",
+    "name": "E. Smith Rowe",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "116117": {
+    "birth_date": "2001-11-02",
+    "name": "M. Caicedo",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "1165": {
+    "birth_date": "1999-05-27",
+    "name": "Matheus Cunha",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "118307": {
+    "birth_date": "1999-10-08",
+    "name": "\u0110. Petrovi\u0107",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "119121": {
+    "birth_date": "2002-03-18",
+    "name": "T. Hume",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "123469": {
+    "birth_date": "2000-12-04",
+    "name": "Z. Amdouni",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "1243": {
+    "birth_date": "1995-02-27",
+    "name": "T. Sou\u010dek",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "125743": {
+    "birth_date": "1998-01-31",
+    "name": "Beto",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "126949": {
+    "birth_date": "2000-03-28",
+    "name": "C. Richards",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "127769": {
+    "birth_date": "2001-06-18",
+    "name": "Gabriel Martinelli",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "127817": {
+    "birth_date": "2002-01-09",
+    "name": "P. Hincapi\u00e9",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "128895": {
+    "birth_date": "2000-11-10",
+    "name": "O. Sonne",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "129033": {
+    "birth_date": "2002-01-23",
+    "name": "J. Gvardiol",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "129058": {
+    "birth_date": "2002-08-18",
+    "name": "B. Verbruggen",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "129142": {
+    "birth_date": "2000-05-06",
+    "name": "I. Gruev",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "129682": {
+    "birth_date": "2000-05-10",
+    "name": "A. Adli",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "129695": {
+    "birth_date": "2002-08-26",
+    "name": "D. Bakwa",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "129711": {
+    "birth_date": "2001-05-23",
+    "name": "B. Johnson",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "131": {
+    "birth_date": "1999-11-17",
+    "name": "Jorge Cuenca",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "135068": {
+    "birth_date": "1997-06-17",
+    "name": "E. Agbadou",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "135334": {
+    "birth_date": "1998-11-09",
+    "name": "S. Bueno",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "135525": {
+    "birth_date": "2003-07-31",
+    "name": "C. Ramsay",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "1361": {
+    "birth_date": "1999-10-07",
+    "name": "F. Kad\u0131o\u011flu",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "136723": {
+    "birth_date": "2002-03-10",
+    "name": "N. Madueke",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "13708": {
+    "birth_date": "1997-09-21",
+    "name": "J. Arias",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "137303": {
+    "birth_date": "2001-07-01",
+    "name": "E. Guessand",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "13736": {
+    "birth_date": "1996-05-26",
+    "name": "D. Mu\u00f1oz",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "138": {
+    "birth_date": "1999-12-30",
+    "name": "J. Todibo",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "138417": {
+    "birth_date": "2001-10-16",
+    "name": "N. Patterson",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "138776": {
+    "birth_date": "2001-02-27",
+    "name": "L. Ramazani",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "138780": {
+    "birth_date": "2001-04-13",
+    "name": "N. Williams",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "138787": {
+    "birth_date": "2001-02-24",
+    "name": "A. Gordon",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "138815": {
+    "birth_date": "2000-09-30",
+    "name": "T. Lamptey",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "138816": {
+    "birth_date": "2002-03-10",
+    "name": "I. Maatsen",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "138822": {
+    "birth_date": "2001-09-10",
+    "name": "A. Broja",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "138844": {
+    "birth_date": "2001-12-06",
+    "name": "H. Tyrer",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "138908": {
+    "birth_date": "2002-11-06",
+    "name": "E. Anderson",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "1408": {
+    "birth_date": "1999-03-22",
+    "name": "S. Bornauw",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "140947": {
+    "birth_date": "2001-05-12",
+    "name": "I. Kabor\u00e9",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "1411": {
+    "birth_date": "1999-02-28",
+    "name": "H. Delcroix",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "141901": {
+    "birth_date": "1999-08-01",
+    "name": "Jota Silva",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "1422": {
+    "birth_date": "2002-05-27",
+    "name": "J. Doku",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "1438": {
+    "birth_date": "1992-03-04",
+    "name": "B. Leno",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "1445": {
+    "birth_date": "1997-12-11",
+    "name": "K. Mavropanos",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "1455": {
+    "birth_date": "1996-05-03",
+    "name": "A. Iwobi",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "1460": {
+    "birth_date": "2001-09-05",
+    "name": "B. Saka",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "1463": {
+    "birth_date": "1999-08-20",
+    "name": "J. Willock",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "1464": {
+    "birth_date": "1992-09-27",
+    "name": "G. Xhaka",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "1468": {
+    "birth_date": "1999-05-30",
+    "name": "E. Nketiah",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "1469": {
+    "birth_date": "1990-11-26",
+    "name": "D. Welbeck",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "147831": {
+    "birth_date": "2002-01-20",
+    "name": "A. Kalimuendo",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "148099": {
+    "birth_date": "1998-09-06",
+    "name": "K. Dewsbury-Hall",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "1485": {
+    "birth_date": "1994-09-08",
+    "name": "Bruno Fernandes",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "151756": {
+    "birth_date": "2000-07-10",
+    "name": "W. Dennis",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "152654": {
+    "birth_date": "2000-12-10",
+    "name": "J. Frimpong",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "152849": {
+    "birth_date": "2001-04-19",
+    "name": "M. van de Ven",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "152856": {
+    "birth_date": "1999-10-06",
+    "name": "Evanilson",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "152953": {
+    "birth_date": "2003-02-26",
+    "name": "L. Colwill",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "152967": {
+    "birth_date": "1999-12-31",
+    "name": "C. Bassey",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "152982": {
+    "birth_date": "2002-05-06",
+    "name": "C. Palmer",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "153066": {
+    "birth_date": "2002-08-30",
+    "name": "F\u00e1bio Carvalho",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "153430": {
+    "birth_date": "2002-04-27",
+    "name": "A. Elanga",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "156428": {
+    "birth_date": "1999-01-08",
+    "name": "B. Austin",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "156477": {
+    "birth_date": "2003-08-17",
+    "name": "R. Cherki",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "157052": {
+    "birth_date": "2002-05-19",
+    "name": "R. Calafiori",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "15745": {
+    "birth_date": "1999-06-24",
+    "name": "M. Roerslev",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "15799": {
+    "birth_date": "1998-01-01",
+    "name": "F. Onyeka",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "157997": {
+    "birth_date": "2002-07-11",
+    "name": "A. Diallo",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "158054": {
+    "birth_date": "2002-02-14",
+    "name": "N. Woltemade",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "158378": {
+    "birth_date": "2001-05-25",
+    "name": "E. Barrenechea",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "158694": {
+    "birth_date": "2002-11-12",
+    "name": "T. Livramento",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "158697": {
+    "birth_date": "2002-10-18",
+    "name": "J. McAtee",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "15870": {
+    "birth_date": "2000-07-11",
+    "name": "M. Hermansen",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "1590": {
+    "birth_date": "1993-01-17",
+    "name": "Jos\u00e9 S\u00e1",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "15908": {
+    "birth_date": "2000-07-03",
+    "name": "M. Damsgaard",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "15911": {
+    "birth_date": "2000-08-02",
+    "name": "M. Kudus",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "161621": {
+    "birth_date": "2003-09-08",
+    "name": "L. Tchaouna",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "161671": {
+    "birth_date": "2002-09-01",
+    "name": "I. Zabarnyi",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "161907": {
+    "birth_date": "2003-05-19",
+    "name": "M. Gusto",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "161933": {
+    "birth_date": "2002-01-03",
+    "name": "Nico Gonz\u00e1lez",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "161948": {
+    "birth_date": "2003-02-08",
+    "name": "L. Delap",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "162007": {
+    "birth_date": "2000-12-22",
+    "name": "M. De Cuyper",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "162016": {
+    "birth_date": "2003-04-21",
+    "name": "X. Simons",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "162076": {
+    "birth_date": "2002-04-06",
+    "name": "D. Cirkin",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "162128": {
+    "birth_date": "2003-11-05",
+    "name": "W. Gnonto",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "162173": {
+    "birth_date": "2003-10-04",
+    "name": "S. Iling-Junior",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "1622": {
+    "birth_date": "1999-02-25",
+    "name": "G. Donnarumma",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "162267": {
+    "birth_date": "2001-11-20",
+    "name": "A. Truffert",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "162489": {
+    "birth_date": "2002-10-10",
+    "name": "J. Trafford",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "162498": {
+    "birth_date": "2002-02-03",
+    "name": "R. Dr\u0103gu\u0219in",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "162511": {
+    "birth_date": "2002-07-07",
+    "name": "S. Lammens",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "162552": {
+    "birth_date": "2004-03-24",
+    "name": "D. Scarlett",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "162687": {
+    "birth_date": "2001-07-23",
+    "name": "V. Jaro\u0161",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "162714": {
+    "birth_date": "2001-08-16",
+    "name": "A. Onana",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "162904": {
+    "birth_date": "2001-02-03",
+    "name": "R. Williams",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "163069": {
+    "birth_date": "2003-05-15",
+    "name": "L. Netz",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "163189": {
+    "birth_date": "2001-08-08",
+    "name": "M. Thiaw",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "164": {
+    "birth_date": "1993-04-24",
+    "name": "B. Davies",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "1646": {
+    "birth_date": "1997-08-27",
+    "name": "Lucas Paquet\u00e1",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "167657": {
+    "birth_date": "2003-03-04",
+    "name": "T. Onyango",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "167663": {
+    "birth_date": "2000-03-25",
+    "name": "T. McGill",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "169": {
+    "birth_date": "1990-09-19",
+    "name": "K. Trippier",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "169282": {
+    "birth_date": "2000-12-18",
+    "name": "N. Huggins",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "169295": {
+    "birth_date": "2002-04-13",
+    "name": "K. Hein",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "1696": {
+    "birth_date": "1999-05-22",
+    "name": "S. Chukwueze",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "171": {
+    "birth_date": "1997-04-13",
+    "name": "K. Walker-Peters",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "171035": {
+    "birth_date": "2003-10-11",
+    "name": "T. Chirewa",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "1736": {
+    "birth_date": "1991-01-14",
+    "name": "W. Foderingham",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "174565": {
+    "birth_date": "2002-06-20",
+    "name": "H. Ekitike",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "1746": {
+    "birth_date": "1997-01-10",
+    "name": "J. Worrall",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "17661": {
+    "birth_date": "2002-06-27",
+    "name": "J. Branthwaite",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "177665": {
+    "birth_date": "1998-11-15",
+    "name": "A. Stach",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "178077": {
+    "birth_date": "2001-11-27",
+    "name": "K. Schade",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "179400": {
+    "birth_date": "2002-05-26",
+    "name": "M. Est\u00e8ve",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "18": {
+    "birth_date": "2000-03-25",
+    "name": "J. Sancho",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "180308": {
+    "birth_date": "2002-09-18",
+    "name": "M. Peart-Harris",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "180317": {
+    "birth_date": "2003-07-09",
+    "name": "C. Bradley",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "180560": {
+    "birth_date": "2003-01-21",
+    "name": "H. Mejbri",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "180940": {
+    "birth_date": "2003-03-30",
+    "name": "T. Sharman-Lowe",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "181797": {
+    "birth_date": "2003-03-15",
+    "name": "B. Humphreys",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "181806": {
+    "birth_date": "2003-03-19",
+    "name": "N. Savona",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "182201": {
+    "birth_date": "1999-09-01",
+    "name": "T. Mitchell",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "184226": {
+    "birth_date": "2002-10-20",
+    "name": "Yeremy Pino",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "18592": {
+    "birth_date": "2000-03-06",
+    "name": "I. Ndiaye",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "186": {
+    "birth_date": "1992-07-08",
+    "name": "Son Heung-Min",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "1864": {
+    "birth_date": "2000-03-09",
+    "name": "Pedro Neto",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "18737": {
+    "birth_date": "1986-10-24",
+    "name": "J. Ruddy",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "18739": {
+    "birth_date": "1991-02-03",
+    "name": "W. Boly",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "18742": {
+    "birth_date": "1992-01-16",
+    "name": "M. Doherty",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "18744": {
+    "birth_date": "1997-05-23",
+    "name": "M. Kilman",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "18746": {
+    "birth_date": "2000-01-27",
+    "name": "M. Gibbs-White",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "18753": {
+    "birth_date": "1996-01-25",
+    "name": "Adama Traor\u00e9",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "18758": {
+    "birth_date": "1988-10-11",
+    "name": "S. Coleman",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "18766": {
+    "birth_date": "1997-03-16",
+    "name": "D. Calvert-Lewin",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "18778": {
+    "birth_date": "1997-12-09",
+    "name": "H. Barnes",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "18784": {
+    "birth_date": "1996-11-23",
+    "name": "J. Maddison",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "18805": {
+    "birth_date": "1993-01-01",
+    "name": "A. Doucour\u00e9",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "18806": {
+    "birth_date": "1995-04-17",
+    "name": "W. Hughes",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "18814": {
+    "birth_date": "1997-01-09",
+    "name": "I. Diop",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "18816": {
+    "birth_date": "1993-11-07",
+    "name": "A. Masuaku",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "18846": {
+    "birth_date": "1997-11-26",
+    "name": "A. Wan-Bissaka",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "18860": {
+    "birth_date": "1999-05-18",
+    "name": "M. Travers",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "18861": {
+    "birth_date": "1995-02-18",
+    "name": "N. Ak\u00e9",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "18862": {
+    "birth_date": "1991-04-05",
+    "name": "N. Clyne",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "18869": {
+    "birth_date": "1991-04-29",
+    "name": "A. Smith",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "18870": {
+    "birth_date": "1997-07-08",
+    "name": "D. Brooks",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "18872": {
+    "birth_date": "1997-02-03",
+    "name": "L. Cook",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "18883": {
+    "birth_date": "1997-09-14",
+    "name": "D. Solanke",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "18885": {
+    "birth_date": "1990-10-08",
+    "name": "K. Darlow",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "18886": {
+    "birth_date": "1989-01-15",
+    "name": "M. D\u00fabravka",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "18889": {
+    "birth_date": "1997-03-04",
+    "name": "F. Woodman",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "18894": {
+    "birth_date": "1993-11-11",
+    "name": "J. Lascelles",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "18901": {
+    "birth_date": "1997-10-30",
+    "name": "S. Longstaff",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "18911": {
+    "birth_date": "1992-04-19",
+    "name": "N. Pope",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "18927": {
+    "birth_date": "1989-10-30",
+    "name": "A. Barnes",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "18929": {
+    "birth_date": "1999-11-22",
+    "name": "D. McNeil",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "18931": {
+    "birth_date": "1991-12-07",
+    "name": "C. Wood",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "18932": {
+    "birth_date": "1988-03-17",
+    "name": "F. Forster",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "18933": {
+    "birth_date": "1996-01-22",
+    "name": "A. Gunn",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "18941": {
+    "birth_date": "1995-09-18",
+    "name": "M. Targett",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "18959": {
+    "birth_date": "1997-11-18",
+    "name": "Robert S\u00e1nchez",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "18960": {
+    "birth_date": "1990-08-18",
+    "name": "J. Steele",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "18961": {
+    "birth_date": "1992-05-09",
+    "name": "D. Burn",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "18963": {
+    "birth_date": "1991-11-21",
+    "name": "L. Dunk",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "18968": {
+    "birth_date": "1996-08-30",
+    "name": "Y. Bissouma",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "18970": {
+    "birth_date": "1991-06-15",
+    "name": "P. Gro\u00df",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "18973": {
+    "birth_date": "1994-07-20",
+    "name": "S. March",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "18979": {
+    "birth_date": "1998-06-04",
+    "name": "V. Gy\u00f6keres",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "19012": {
+    "birth_date": "1992-05-24",
+    "name": "M. Bettinelli",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "19025": {
+    "birth_date": "1991-01-20",
+    "name": "T. Cairney",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "19030": {
+    "birth_date": "2000-11-21",
+    "name": "M. O&apos;Riley",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "19032": {
+    "birth_date": "2000-05-18",
+    "name": "R. Sessegnon",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "19035": {
+    "birth_date": "2003-04-04",
+    "name": "H. Elliott",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "1904": {
+    "birth_date": "1999-11-23",
+    "name": "B. Kamara",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "19071": {
+    "birth_date": "1996-12-25",
+    "name": "E. Buend\u00eda",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "19088": {
+    "birth_date": "1997-03-12",
+    "name": "D. Henderson",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "19089": {
+    "birth_date": "1990-05-19",
+    "name": "S. Moore",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "19128": {
+    "birth_date": "1996-11-20",
+    "name": "J. Harrison",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "19130": {
+    "birth_date": "1995-12-02",
+    "name": "K. Phillips",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "19143": {
+    "birth_date": "1993-03-25",
+    "name": "S. Johnstone",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "19145": {
+    "birth_date": "1997-09-24",
+    "name": "T. Adarabioyo",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "19163": {
+    "birth_date": "1995-02-24",
+    "name": "J. Murphy",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "19170": {
+    "birth_date": "2002-07-26",
+    "name": "M. Rogers",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "19179": {
+    "birth_date": "1993-03-13",
+    "name": "T. Mings",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "19182": {
+    "birth_date": "1997-11-14",
+    "name": "A. Tuanzebe",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "19187": {
+    "birth_date": "1995-09-10",
+    "name": "J. Grealish",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "19191": {
+    "birth_date": "1994-10-18",
+    "name": "J.  McGinn",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "19192": {
+    "birth_date": "2001-05-28",
+    "name": "J. Ramsey",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "19194": {
+    "birth_date": "1997-10-02",
+    "name": "T. Abraham",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "19201": {
+    "birth_date": "2000-07-27",
+    "name": "J. Bogle",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "19220": {
+    "birth_date": "1999-01-10",
+    "name": "M. Mount",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "19221": {
+    "birth_date": "1997-03-22",
+    "name": "H. Wilson",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "19235": {
+    "birth_date": "2000-08-09",
+    "name": "D. Spence",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "19245": {
+    "birth_date": "1999-03-22",
+    "name": "M. Tavernier",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "19281": {
+    "birth_date": "2000-01-07",
+    "name": "A. Semenyo",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "19287": {
+    "birth_date": "1993-09-16",
+    "name": "S. Byram",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "19298": {
+    "birth_date": "1997-08-07",
+    "name": "M. Cash",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "19305": {
+    "birth_date": "1997-11-21",
+    "name": "R. Yates",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "19321": {
+    "birth_date": "1997-10-22",
+    "name": "J. Rodon",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "19329": {
+    "birth_date": "1997-11-10",
+    "name": "D. James",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "19331": {
+    "birth_date": "1995-09-23",
+    "name": "C. Roberts",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "1934": {
+    "birth_date": "1998-02-14",
+    "name": "S. Berge",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "19340": {
+    "birth_date": "1999-10-15",
+    "name": "E. Balcombe",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "19341": {
+    "birth_date": "1993-07-13",
+    "name": "D. Bentley",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "19346": {
+    "birth_date": "1997-07-08",
+    "name": "R. Henry",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "19354": {
+    "birth_date": "1997-10-23",
+    "name": "E. Konsa",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "19362": {
+    "birth_date": "1998-10-23",
+    "name": "J. Dasilva",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "19366": {
+    "birth_date": "1995-12-30",
+    "name": "O. Watkins",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "19428": {
+    "birth_date": "1996-12-20",
+    "name": "J. Bowen",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "194536": {
+    "birth_date": "2003-01-17",
+    "name": "R. Roefs",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "1946": {
+    "birth_date": "1994-12-04",
+    "name": "L. Trossard",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "19461": {
+    "birth_date": "1998-12-14",
+    "name": "L. Nmecha",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "19465": {
+    "birth_date": "1995-09-15",
+    "name": "David Raya",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "19480": {
+    "birth_date": "1995-01-27",
+    "name": "H. Reed",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "19484": {
+    "birth_date": "1997-02-10",
+    "name": "A. Armstrong",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "19495": {
+    "birth_date": "2001-04-30",
+    "name": "N. Collins",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "195103": {
+    "birth_date": "2001-02-12",
+    "name": "Jo\u00e3o Gomes",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "195106": {
+    "birth_date": "2001-05-04",
+    "name": "Rodrigo Muniz",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "19545": {
+    "birth_date": "1999-12-08",
+    "name": "R. James",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "19549": {
+    "birth_date": "1997-08-08",
+    "name": "A. Robinson",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "195717": {
+    "birth_date": "2001-05-02",
+    "name": "Y. Mosquera",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "19586": {
+    "birth_date": "1998-06-29",
+    "name": "E. Eze",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "19599": {
+    "birth_date": "1992-09-02",
+    "name": "E. Mart\u00ednez",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "195993": {
+    "birth_date": "2002-11-30",
+    "name": "C. Alcaraz",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "196156": {
+    "birth_date": "2001-06-26",
+    "name": "Thiago",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "19684": {
+    "birth_date": "1994-02-10",
+    "name": "R. Matthews",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "196855": {
+    "birth_date": "1999-12-01",
+    "name": "J. Anthony",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "196856": {
+    "birth_date": "2003-07-27",
+    "name": "Daniel Edward Peter Imray",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "19720": {
+    "birth_date": "1999-07-05",
+    "name": "T. Chalobah",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "19760": {
+    "birth_date": "1998-02-23",
+    "name": "J. Justin",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "19789": {
+    "birth_date": "1993-05-29",
+    "name": "E. Pinnock",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "19827": {
+    "birth_date": "1996-04-07",
+    "name": "J. Cullen",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "19881": {
+    "birth_date": "2000-05-10",
+    "name": "A. Patterson",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "199089": {
+    "birth_date": "2000-09-10",
+    "name": "L. Lucca",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "19910": {
+    "birth_date": "2001-11-30",
+    "name": "D. Neil",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "19911": {
+    "birth_date": "1994-11-21",
+    "name": "L. O&apos;Nien",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "19959": {
+    "birth_date": "1997-10-08",
+    "name": "B. White",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "20093": {
+    "birth_date": "2002-01-10",
+    "name": "J. Hill",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "202854": {
+    "birth_date": "2002-07-05",
+    "name": "M. R\u00f6hl",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "20303": {
+    "birth_date": "1995-05-06",
+    "name": "J. Laurent",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "2032": {
+    "birth_date": "2000-02-06",
+    "name": "J. Strand Larsen",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "203224": {
+    "birth_date": "2003-05-03",
+    "name": "F. Wirtz",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "20355": {
+    "birth_date": "1998-05-14",
+    "name": "A. Ramsdale",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "204039": {
+    "birth_date": "2002-11-28",
+    "name": "D. Udogie",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "20589": {
+    "birth_date": "1999-08-07",
+    "name": "B. Mbeumo",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "20619": {
+    "birth_date": "2000-03-02",
+    "name": "I. Meslier",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "206254": {
+    "birth_date": "2003-11-07",
+    "name": "M. Kerkez",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "20638": {
+    "birth_date": "2000-02-03",
+    "name": "E. Le F\u00e9e",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "20649": {
+    "birth_date": "1996-09-03",
+    "name": "Y. Wissa",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "20665": {
+    "birth_date": "1998-06-27",
+    "name": "J. Bellegarde",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "20995": {
+    "birth_date": "2000-04-06",
+    "name": "M. Lacroix",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "21104": {
+    "birth_date": "1998-12-05",
+    "name": "R. Kolo Muani",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "21138": {
+    "birth_date": "2001-06-06",
+    "name": "R. A\u00eft-Nouri",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "21566": {
+    "birth_date": "1991-04-26",
+    "name": "B. Lecomte",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "2165": {
+    "birth_date": "1999-05-29",
+    "name": "V. Mykolenko",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "21694": {
+    "birth_date": "1996-03-30",
+    "name": "N. Aguerd",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "21998": {
+    "birth_date": "1998-03-11",
+    "name": "A. Disasi",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "22": {
+    "birth_date": "1998-09-19",
+    "name": "J. Bruun Larsen",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "22090": {
+    "birth_date": "2001-03-24",
+    "name": "W. Saliba",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "22094": {
+    "birth_date": "2000-12-17",
+    "name": "W. Fofana",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "22136": {
+    "birth_date": "2001-01-06",
+    "name": "B. Diakit\u00e9",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "22149": {
+    "birth_date": "1997-12-02",
+    "name": "I. Sangar\u00e9",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "22157": {
+    "birth_date": "1993-01-19",
+    "name": "W. Ben\u00edtez",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "22160": {
+    "birth_date": "1997-11-18",
+    "name": "O. Boscagli",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "2218": {
+    "birth_date": "1998-02-25",
+    "name": "I. Sarr",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "22224": {
+    "birth_date": "1997-12-19",
+    "name": "Gabriel Magalh\u00e3es",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "22225": {
+    "birth_date": "1994-01-21",
+    "name": "Reinildo",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "2273": {
+    "birth_date": "1994-10-03",
+    "name": "Kepa",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "2279": {
+    "birth_date": "2000-09-14",
+    "name": "E. Ampadu",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "2284": {
+    "birth_date": "1994-08-03",
+    "name": "Emerson",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "2287": {
+    "birth_date": "1993-12-05",
+    "name": "R. Barkley",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "2291": {
+    "birth_date": "1994-05-06",
+    "name": "M. Kova\u010di\u0107",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "2298": {
+    "birth_date": "2000-11-07",
+    "name": "C. Hudson-Odoi",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "237129": {
+    "birth_date": "2002-09-14",
+    "name": "P. Sarr",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "237819": {
+    "birth_date": "2003-01-04",
+    "name": "Kevin",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "2413": {
+    "birth_date": "1997-05-10",
+    "name": "Richarlison",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "2467": {
+    "birth_date": "1998-01-18",
+    "name": "Lisandro Mart\u00ednez",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "247": {
+    "birth_date": "1999-05-07",
+    "name": "C. Gakpo",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "2476": {
+    "birth_date": "1994-04-12",
+    "name": "G. Rodr\u00edguez",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "24760": {
+    "birth_date": "2000-09-29",
+    "name": "G. Mamardashvili",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "24888": {
+    "birth_date": "1996-01-26",
+    "name": "Hwang Hee-Chan",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "249": {
+    "birth_date": "1999-01-19",
+    "name": "D. Malen",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "2490": {
+    "birth_date": "1994-10-25",
+    "name": "J. Lerma",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "250": {
+    "birth_date": "1999-08-02",
+    "name": "J. Piroe",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "25004": {
+    "birth_date": "1992-11-06",
+    "name": "S. Ortega",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "25073": {
+    "birth_date": "1998-05-10",
+    "name": "V. Janelt",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "25287": {
+    "birth_date": "1998-09-19",
+    "name": "K. Danso",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "253": {
+    "birth_date": "1993-02-27",
+    "name": "A. Areola",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "25391": {
+    "birth_date": "1993-02-09",
+    "name": "N. F\u00fcllkrug",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "25927": {
+    "birth_date": "1997-06-28",
+    "name": "J. Mateta",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "2601": {
+    "birth_date": "1996-08-05",
+    "name": "D. Kamada",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "26303": {
+    "birth_date": "1998-01-21",
+    "name": "B. Sosa",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "263538": {
+    "birth_date": "2004-03-01",
+    "name": "Y. Yarmolyuk",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "265372": {
+    "birth_date": "1999-12-07",
+    "name": "I. Schmidt",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "265733": {
+    "birth_date": "2004-12-22",
+    "name": "C. Wiley",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "265782": {
+    "birth_date": "2002-04-23",
+    "name": "D. M\u00f8ller Wolfe",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "265784": {
+    "birth_date": "2001-07-16",
+    "name": "Andr\u00e9",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "265820": {
+    "birth_date": "2003-10-06",
+    "name": "Y. Ayari",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "265826": {
+    "birth_date": "2003-03-13",
+    "name": "A. Kinsk\u00fd",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "26644": {
+    "birth_date": "2001-09-17",
+    "name": "C. Mandas",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "266657": {
+    "birth_date": "2004-04-10",
+    "name": "S\u00e1vio",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "269": {
+    "birth_date": "1997-11-14",
+    "name": "C. Nkunku",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "270139": {
+    "birth_date": "2001-05-15",
+    "name": "J. O&apos;Brien",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "270508": {
+    "birth_date": "2004-03-26",
+    "name": "L. Ugochukwu",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "270510": {
+    "birth_date": "2005-04-27",
+    "name": "M. Tel",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "2724": {
+    "birth_date": "1993-07-20",
+    "name": "L. Digne",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "2729": {
+    "birth_date": "1996-05-31",
+    "name": "J. Andersen",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "2734": {
+    "birth_date": "1996-06-11",
+    "name": "P. Billing",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "273757": {
+    "birth_date": "2004-08-01",
+    "name": "A. Devine",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "276184": {
+    "birth_date": "2005-08-29",
+    "name": "M. Sarr",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "2771": {
+    "birth_date": "1996-10-08",
+    "name": "O. Aina",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "278079": {
+    "birth_date": "2003-01-21",
+    "name": "A. Ramsey",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "278128": {
+    "birth_date": "2002-12-26",
+    "name": "J. Wilson-Esbrand",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "278133": {
+    "birth_date": "2003-07-12",
+    "name": "Oscar Bobb",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "278370": {
+    "birth_date": "2003-03-27",
+    "name": "D. G\u00f3mez",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "278454": {
+    "birth_date": "2003-05-22",
+    "name": "M. Ellborg",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "278898": {
+    "birth_date": "2003-06-17",
+    "name": "C. Riad",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "280": {
+    "birth_date": "1992-10-02",
+    "name": "Alisson Becker",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "2806": {
+    "birth_date": "1991-12-20",
+    "name": "F. Sch\u00e4r",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "280687": {
+    "birth_date": "2002-09-18",
+    "name": "Hugo Bueno",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "281": {
+    "birth_date": "1998-11-23",
+    "name": "C. Kelleher",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "2817": {
+    "birth_date": "1997-10-12",
+    "name": "N. Milenkovi\u0107",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "282125": {
+    "birth_date": "2004-01-06",
+    "name": "R. Lavia",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "2823": {
+    "birth_date": "1996-08-13",
+    "name": "S. Luki\u0107",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "282770": {
+    "birth_date": "2003-07-07",
+    "name": "Rodrigo Gomes",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "283058": {
+    "birth_date": "2001-06-20",
+    "name": "N. Jackson",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "283272": {
+    "birth_date": "2004-03-01",
+    "name": "A. Pond",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "284": {
+    "birth_date": "1997-05-23",
+    "name": "J. Gomez",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "284230": {
+    "birth_date": "2004-11-21",
+    "name": "R. Lewis",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "284236": {
+    "birth_date": "2005-03-30",
+    "name": "Temple Ojinnaka",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "284322": {
+    "birth_date": "2005-04-19",
+    "name": "K. Mainoo",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "284324": {
+    "birth_date": "2004-07-01",
+    "name": "A. Garnacho",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "284327": {
+    "birth_date": "2003-09-19",
+    "name": "R. Welch",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "284374": {
+    "birth_date": "2004-08-01",
+    "name": "Max Thompson",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "284385": {
+    "birth_date": "2004-08-02",
+    "name": "Elijah Xavier Campbell",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "284390": {
+    "birth_date": "2004-12-02",
+    "name": "J. Wright",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "284400": {
+    "birth_date": "2004-01-03",
+    "name": "Tobias Christopher Collyer",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "284414": {
+    "birth_date": "2003-04-24",
+    "name": "R. Mundle",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "284417": {
+    "birth_date": "2004-06-21",
+    "name": "Dante Jamel Cassanova",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "284428": {
+    "birth_date": "2003-10-29",
+    "name": "O. Hutchinson",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "284446": {
+    "birth_date": "2003-09-12",
+    "name": "F. Potts",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "284449": {
+    "birth_date": "2002-10-05",
+    "name": "J. Rak-Sakyi",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "284457": {
+    "birth_date": "2004-01-05",
+    "name": "L. Bogarde",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "284492": {
+    "birth_date": "2004-09-08",
+    "name": "L. Hall",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "284500": {
+    "birth_date": "2003-06-30",
+    "name": "T. Iroegbunam",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "284571": {
+    "birth_date": "2004-07-24",
+    "name": "C. Sagoe",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "284797": {
+    "birth_date": "2002-02-11",
+    "name": "D. Ouattara",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "285": {
+    "birth_date": "2002-01-18",
+    "name": "K. Hoever",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "2855": {
+    "birth_date": "1994-08-02",
+    "name": "E. Krafth",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "2864": {
+    "birth_date": "1999-09-21",
+    "name": "A. Isak",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "286458": {
+    "birth_date": "2003-10-11",
+    "name": "J. Devenny",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "286616": {
+    "birth_date": "2002-04-16",
+    "name": "F. J\u00f6rgensen",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "286764": {
+    "birth_date": "2004-10-05",
+    "name": "Kaide Gordon",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "286771": {
+    "birth_date": "2004-07-07",
+    "name": "Tyrell Dean Ashcroft",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "286894": {
+    "birth_date": "2004-08-08",
+    "name": "J. Bynoe-Gittens",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "2869": {
+    "birth_date": "1997-10-24",
+    "name": "E. \u00c1lvarez",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "287109": {
+    "birth_date": "2004-09-13",
+    "name": "J. McConnell",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "287868": {
+    "birth_date": "2005-11-10",
+    "name": "Max Merrick",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "288006": {
+    "birth_date": "2003-02-04",
+    "name": "R. H\u00f8jlund",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "288102": {
+    "birth_date": "2004-06-02",
+    "name": "A. Wharton",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "288116": {
+    "birth_date": "2004-10-28",
+    "name": "K. Casey",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "288118": {
+    "birth_date": "2006-02-18",
+    "name": "L. Orford",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "288129": {
+    "birth_date": "2004-12-22",
+    "name": "Alfie Shane McNally",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "2887": {
+    "birth_date": "1991-05-05",
+    "name": "R. Jim\u00e9nez",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "289": {
+    "birth_date": "1994-03-11",
+    "name": "A. Robertson",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "290": {
+    "birth_date": "1991-07-08",
+    "name": "V. van Dijk",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "290545": {
+    "birth_date": "2003-05-23",
+    "name": "J. Seelt",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "291363": {
+    "birth_date": "2004-09-05",
+    "name": "George Earthy",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "291476": {
+    "birth_date": "2002-12-22",
+    "name": "D. Fofana",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "2919": {
+    "birth_date": "1992-02-26",
+    "name": "M. Sels",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "292": {
+    "birth_date": "1990-06-17",
+    "name": "J. Henderson",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "2920": {
+    "birth_date": "1995-12-05",
+    "name": "T. Castagne",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "2926": {
+    "birth_date": "1997-05-07",
+    "name": "Y. Tielemans",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "293": {
+    "birth_date": "2001-01-30",
+    "name": "C. Jones",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "2931": {
+    "birth_date": "1986-04-15",
+    "name": "T. Heaton",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "293168": {
+    "birth_date": "2005-07-21",
+    "name": "Max Alleyne",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "2932": {
+    "birth_date": "1994-03-07",
+    "name": "J. Pickford",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "2934": {
+    "birth_date": "1993-01-11",
+    "name": "M. Keane",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "2935": {
+    "birth_date": "1993-03-05",
+    "name": "H. Maguire",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "2936": {
+    "birth_date": "1992-11-19",
+    "name": "J. Tarkowski",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "2937": {
+    "birth_date": "1999-01-14",
+    "name": "D. Rice",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "2938": {
+    "birth_date": "1994-11-01",
+    "name": "J. Ward-Prowse",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "2939": {
+    "birth_date": "1992-02-27",
+    "name": "C. Wilson",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "296": {
+    "birth_date": "1986-01-04",
+    "name": "J. Milner",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "296560": {
+    "birth_date": "2001-09-14",
+    "name": "J. Tchatchoua",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "296664": {
+    "birth_date": "2004-10-28",
+    "name": "Isaac Heath",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "297187": {
+    "birth_date": "2003-08-26",
+    "name": "L. Hjelde",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "298061": {
+    "birth_date": "2006-02-14",
+    "name": "Ted Curd",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "2990": {
+    "birth_date": "1989-09-26",
+    "name": "I. Gueye",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "2997": {
+    "birth_date": "1985-04-18",
+    "name": "\u0141. Fabia\u0144ski",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "301187": {
+    "birth_date": "2004-01-02",
+    "name": "Pablo",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "301286": {
+    "birth_date": "2004-09-14",
+    "name": "Tommy Pilling",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "301295": {
+    "birth_date": "2004-10-07",
+    "name": "K. Rodney",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "301771": {
+    "birth_date": "2002-01-01",
+    "name": "S. Adingra",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "30407": {
+    "birth_date": "1994-03-10",
+    "name": "C. N\u00f8rgaard",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "30410": {
+    "birth_date": "1997-10-25",
+    "name": "F. Chiesa",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "304317": {
+    "birth_date": "2006-03-12",
+    "name": "T. Dibling",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "304853": {
+    "birth_date": "2003-08-21",
+    "name": "A. Scott",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "305730": {
+    "birth_date": "2005-04-11",
+    "name": "J. Hinshelwood",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "305834": {
+    "birth_date": "2004-05-03",
+    "name": "Andrey Santos",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "306": {
+    "birth_date": "1992-06-15",
+    "name": "Mohamed Salah",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "307123": {
+    "birth_date": "2005-03-21",
+    "name": "N. O&apos;Reilly",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "30776": {
+    "birth_date": "1998-04-27",
+    "name": "C. Romero",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "3080": {
+    "birth_date": "1996-06-22",
+    "name": "M. Munetsi",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "308678": {
+    "birth_date": "2005-03-14",
+    "name": "D\u00e1rio Essugo",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "308843": {
+    "birth_date": "2005-10-06",
+    "name": "T. Patterson",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "310531": {
+    "birth_date": "2005-06-09",
+    "name": "Rio Kyerematen",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "31057": {
+    "birth_date": "2000-02-16",
+    "name": "H. Traor\u00e8",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "311334": {
+    "birth_date": "2004-12-23",
+    "name": "F. Buonanotte",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "31146": {
+    "birth_date": "2000-05-08",
+    "name": "S. Tonali",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "311543": {
+    "birth_date": "2003-06-19",
+    "name": "N. Angulo",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "312260": {
+    "birth_date": "2006-01-19",
+    "name": "K. Young",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "313236": {
+    "birth_date": "2007-03-21",
+    "name": "E. Nwaneri",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "313245": {
+    "birth_date": "2006-09-26",
+    "name": "M. Lewis-Skelly",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "31354": {
+    "birth_date": "1996-10-07",
+    "name": "G. Vicario",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "314661": {
+    "birth_date": "2006-01-16",
+    "name": "J. Danns",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "315237": {
+    "birth_date": "2003-08-04",
+    "name": "W. Osula",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "318056": {
+    "birth_date": "2004-06-25",
+    "name": "A. Murphy",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "319517": {
+    "birth_date": "2005-04-03",
+    "name": "A. Milambo",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "323591": {
+    "birth_date": "2006-12-19",
+    "name": "S. Nypan",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "326176": {
+    "birth_date": "2003-10-08",
+    "name": "S. Magassa",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "327631": {
+    "birth_date": "2004-01-03",
+    "name": "H. Diarra",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "327726": {
+    "birth_date": "2005-08-24",
+    "name": "R. Owen",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "327730": {
+    "birth_date": "2005-12-12",
+    "name": "O. Scarles",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "327733": {
+    "birth_date": "2005-03-27",
+    "name": "Sam Rak-Sakyi",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "327745": {
+    "birth_date": "2004-10-15",
+    "name": "Jackson Izquierdo",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "328076": {
+    "birth_date": "2006-02-24",
+    "name": "C. Tasker",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "328081": {
+    "birth_date": "2006-01-12",
+    "name": "W. Omoruyi",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "328086": {
+    "birth_date": "2004-12-13",
+    "name": "B. Middlemas",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "328089": {
+    "birth_date": "2006-03-12",
+    "name": "A. Gray",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "328101": {
+    "birth_date": "2005-02-23",
+    "name": "T. Fredricson",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "328105": {
+    "birth_date": "2006-05-01",
+    "name": "L. Miley",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "328225": {
+    "birth_date": "2004-05-31",
+    "name": "B. Gruda",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "328273": {
+    "birth_date": "2004-06-15",
+    "name": "M. Wei\u00df",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "329345": {
+    "birth_date": "2005-05-05",
+    "name": "Jack Ethan Thompson",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "329357": {
+    "birth_date": "2006-05-13",
+    "name": "Z. Abbott",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "329358": {
+    "birth_date": "2004-09-06",
+    "name": "Aaron Bott",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "329361": {
+    "birth_date": "2004-07-01",
+    "name": "B. Hammond",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "329369": {
+    "birth_date": "2006-04-08",
+    "name": "T. Watson",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "32966": {
+    "birth_date": "1998-09-10",
+    "name": "A. Tanaka",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "330238": {
+    "birth_date": "2001-03-24",
+    "name": "Lucas Pires",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "330412": {
+    "birth_date": "2004-05-24",
+    "name": "Youssef Chermiti",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "330437": {
+    "birth_date": "2005-05-08",
+    "name": "\u00c1lex Jim\u00e9nez",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "330640": {
+    "birth_date": "2005-02-13",
+    "name": "Harrison Jones",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "333682": {
+    "birth_date": "2004-06-27",
+    "name": "Cristhian Mosquera",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "334036": {
+    "birth_date": "2006-05-11",
+    "name": "R. Russell-Denny",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "334037": {
+    "birth_date": "2006-02-04",
+    "name": "Tyrique George",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "334369": {
+    "birth_date": "2004-09-01",
+    "name": "Justin Thomas Hanks",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "334725": {
+    "birth_date": "2003-09-02",
+    "name": "D. Sadi",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "336564": {
+    "birth_date": "2004-11-28",
+    "name": "W. Odobert",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "336578": {
+    "birth_date": "2004-10-09",
+    "name": "J. Banel",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "336585": {
+    "birth_date": "2004-07-10",
+    "name": "Mateus Fernandes",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "336659": {
+    "birth_date": "2005-05-09",
+    "name": "C. Talbi",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "336671": {
+    "birth_date": "2003-07-29",
+    "name": "Renato Veiga",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "337593": {
+    "birth_date": "2004-09-04",
+    "name": "K. Takai",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "337932": {
+    "birth_date": "2006-01-18",
+    "name": "F. Herrick",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "337933": {
+    "birth_date": "2005-09-28",
+    "name": "Alexei Rojas Fedorushchenko",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "337934": {
+    "birth_date": "2007-03-18",
+    "name": "L. Shahar",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "339201": {
+    "birth_date": "2007-06-18",
+    "name": "C. Rigg",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "339205": {
+    "birth_date": "2005-10-11",
+    "name": "M. Laffey",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "339259": {
+    "birth_date": "2004-09-15",
+    "name": "Tom Tweedy",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "340151": {
+    "birth_date": "2005-07-31",
+    "name": "M. Penders",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "340246": {
+    "birth_date": "2006-06-30",
+    "name": "Trent Toure Kone Doherty",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "341642": {
+    "birth_date": "2006-03-07",
+    "name": "J. Hato",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "342022": {
+    "birth_date": "2004-07-10",
+    "name": "M. Kayode",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "342063": {
+    "birth_date": "2003-12-28",
+    "name": "D. Coppola",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "342243": {
+    "birth_date": "2006-03-13",
+    "name": "T. Setford",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "342467": {
+    "birth_date": "2005-02-24",
+    "name": "\u00c1. P\u00e9csi",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "342970": {
+    "birth_date": "2005-11-13",
+    "name": "L. Yoro",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "343311": {
+    "birth_date": "2006-01-06",
+    "name": "S. Tzimas",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "343576": {
+    "birth_date": "2005-11-11",
+    "name": "B. Doak",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "343684": {
+    "birth_date": "2002-10-21",
+    "name": "T. Barry",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "344223": {
+    "birth_date": "2006-08-31",
+    "name": "K. Figueroa",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "344229": {
+    "birth_date": "2005-11-29",
+    "name": "J. Moorhouse",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "344247": {
+    "birth_date": "2005-03-23",
+    "name": "Luca Gunter",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "344707": {
+    "birth_date": "2004-11-28",
+    "name": "C. Marshall",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "345435": {
+    "birth_date": "2006-06-15",
+    "name": "C. Crew",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "347305": {
+    "birth_date": "2005-12-17",
+    "name": "Jaden Heskey",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "347316": {
+    "birth_date": "2006-02-02",
+    "name": "L. Bergvall",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "349383": {
+    "birth_date": "2006-05-10",
+    "name": "O. Irow",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "349384": {
+    "birth_date": "2005-09-04",
+    "name": "T. Hall",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "349799": {
+    "birth_date": "2005-05-08",
+    "name": "Eliezer Mayenda",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "351344": {
+    "birth_date": "2007-08-18",
+    "name": "S. Chambers",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "353968": {
+    "birth_date": "2006-05-21",
+    "name": "A. Whitehall",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "356041": {
+    "birth_date": "2004-01-03",
+    "name": "C. Baleba",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "357238": {
+    "birth_date": "2005-10-01",
+    "name": "Keehan Willows",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "358969": {
+    "birth_date": "2003-11-18",
+    "name": "K. Lamadrid",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "359117": {
+    "birth_date": "2007-10-20",
+    "name": "Shumaira Mheuka",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "359842": {
+    "birth_date": "2005-09-21",
+    "name": "Joe Knight",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "360114": {
+    "birth_date": "2004-02-29",
+    "name": "A. Khusanov",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "360268": {
+    "birth_date": "2006-10-02",
+    "name": "J. Jimoh",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "360269": {
+    "birth_date": "2006-05-18",
+    "name": "Triston Rowe",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "361388": {
+    "birth_date": "2005-01-13",
+    "name": "E. Agyei",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "361485": {
+    "birth_date": "2005-10-23",
+    "name": "A. T\u00f3th",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "361735": {
+    "birth_date": "2006-07-13",
+    "name": "James Rowswell",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "362270": {
+    "birth_date": "2006-01-20",
+    "name": "E. Wheatley",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "362711": {
+    "birth_date": "2005-03-07",
+    "name": "Jair",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "362766": {
+    "birth_date": "2006-10-14",
+    "name": "J. Whittaker",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "362768": {
+    "birth_date": "2006-11-03",
+    "name": "Jayden Jones",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "363333": {
+    "birth_date": "2005-02-16",
+    "name": "J. Soler",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "363695": {
+    "birth_date": "2002-07-04",
+    "name": "Murillo",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "363974": {
+    "birth_date": "2005-10-06",
+    "name": "Z. Marsh",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "364566": {
+    "birth_date": "2007-03-04",
+    "name": "George Hemmings",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "364980": {
+    "birth_date": "2004-06-16",
+    "name": "Conor McManus",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "365331": {
+    "birth_date": "2004-12-17",
+    "name": "N. Sadiki",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "365664": {
+    "birth_date": "2005-11-14",
+    "name": "Ethan Williams",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "365986": {
+    "birth_date": "2007-02-19",
+    "name": "R. Chadwick-Chaplin",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "365988": {
+    "birth_date": "2006-12-16",
+    "name": "Aidan Harris",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "366735": {
+    "birth_date": "2006-05-05",
+    "name": "Joshua Kofi Acheampong",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "368030": {
+    "birth_date": "2006-06-23",
+    "name": "E. Kroupi",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "36878": {
+    "birth_date": "1991-03-10",
+    "name": "M. Bizot",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "36902": {
+    "birth_date": "1998-07-29",
+    "name": "T. Reijnders",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "36922": {
+    "birth_date": "2001-12-20",
+    "name": "S. van den Berg",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "36927": {
+    "birth_date": "1998-08-01",
+    "name": "Z. Flemming",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "37127": {
+    "birth_date": "1998-12-17",
+    "name": "M. \u00d8degaard",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "37143": {
+    "birth_date": "2000-07-18",
+    "name": "L. Geertruida",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "37145": {
+    "birth_date": "1999-08-17",
+    "name": "T. Malacia",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "37381": {
+    "birth_date": "1999-05-28",
+    "name": "M. Tr\u00e9sor",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "375915": {
+    "birth_date": "2001-11-14",
+    "name": "Q. Hartman",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "37724": {
+    "birth_date": "2001-10-30",
+    "name": "C. Summerville",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "37882": {
+    "birth_date": "1998-12-03",
+    "name": "M. Edwards",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "379676": {
+    "birth_date": "2006-07-25",
+    "name": "M. Campbell",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "379678": {
+    "birth_date": "2006-04-25",
+    "name": "Ethan Sutherland",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "380492": {
+    "birth_date": "2006-05-03",
+    "name": "Eric Emanuel da Silva Moreira",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "380663": {
+    "birth_date": "2006-08-11",
+    "name": "J. Sinclair",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "380666": {
+    "birth_date": "2007-02-21",
+    "name": "C. Pinnington",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "380681": {
+    "birth_date": "2007-08-22",
+    "name": "D. Mukasa",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "380688": {
+    "birth_date": "2005-09-05",
+    "name": "Y. Akhamrich",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "380689": {
+    "birth_date": "2007-03-11",
+    "name": "C. Olusesi",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "380690": {
+    "birth_date": "2007-08-11",
+    "name": "M. Moore",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "380696": {
+    "birth_date": "2006-07-26",
+    "name": "Joshua Nichols",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "380703": {
+    "birth_date": "2006-07-01",
+    "name": "Rio Cardines",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "380715": {
+    "birth_date": "2007-01-29",
+    "name": "B. Broggio",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "381014": {
+    "birth_date": "2006-06-26",
+    "name": "Jenson Jones",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "382345": {
+    "birth_date": "2005-11-28",
+    "name": "Alfie Harrison",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "382358": {
+    "birth_date": "2008-02-12",
+    "name": "S. Mfuni",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "382452": {
+    "birth_date": "2004-10-26",
+    "name": "P. Dorgu",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "383685": {
+    "birth_date": "2004-07-22",
+    "name": "Y. Minteh",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "383770": {
+    "birth_date": "2007-03-19",
+    "name": "J. Fletcher",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "384585": {
+    "birth_date": "2005-11-04",
+    "name": "T. Hernes",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "384981": {
+    "birth_date": "2007-03-07",
+    "name": "S. Amissah",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "385726": {
+    "birth_date": "2005-01-20",
+    "name": "E. Gonz\u00e1lez",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "38695": {
+    "birth_date": "2000-06-08",
+    "name": "J. van Hecke",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "38734": {
+    "birth_date": "2000-01-12",
+    "name": "S. Botman",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "38746": {
+    "birth_date": "2001-06-17",
+    "name": "J. Timber",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "38750": {
+    "birth_date": "2002-02-01",
+    "name": "B. Brobbey",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "387521": {
+    "birth_date": "2007-02-24",
+    "name": "L. Vu\u0161kovi\u0107",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "388013": {
+    "birth_date": "2003-02-07",
+    "name": "Andr\u00e9s Garc\u00eda",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "388461": {
+    "birth_date": "2004-06-19",
+    "name": "A. Abdullahi",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "389032": {
+    "birth_date": "2006-11-09",
+    "name": "K. Morrison",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "389033": {
+    "birth_date": "2007-02-26",
+    "name": "Kian Ben Noble",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "389034": {
+    "birth_date": "2006-02-22",
+    "name": "Charlie Gray",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "389302": {
+    "birth_date": "2006-05-18",
+    "name": "T. Edozie",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "389309": {
+    "birth_date": "2007-11-29",
+    "name": "O. Martin",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "389315": {
+    "birth_date": "2007-01-03",
+    "name": "Joshua King",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "389579": {
+    "birth_date": "2006-04-21",
+    "name": "J. Eyestone",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "391822": {
+    "birth_date": "2004-05-24",
+    "name": "Fer L\u00f3pez",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "392270": {
+    "birth_date": "2006-01-04",
+    "name": "Marc Guiu",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "392482": {
+    "birth_date": "2007-05-30",
+    "name": "C. Kostoulas",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "392610": {
+    "birth_date": "2008-04-20",
+    "name": "H. Howell",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "393193": {
+    "birth_date": "2007-02-06",
+    "name": "Kaye Iyowuna Furo",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "393195": {
+    "birth_date": "2005-04-20",
+    "name": "W. Lankshear",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "394165": {
+    "birth_date": "2007-05-27",
+    "name": "S. Neave",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "394167": {
+    "birth_date": "2007-08-07",
+    "name": "O. Harrison",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "395762": {
+    "birth_date": "2006-01-18",
+    "name": "M. Amougou",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "397997": {
+    "birth_date": "2007-06-30",
+    "name": "T. Nyoni",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "397999": {
+    "birth_date": "2007-01-07",
+    "name": "S. Olagunju",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "398000": {
+    "birth_date": "2007-05-11",
+    "name": "G. Antwi",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "398004": {
+    "birth_date": "2006-12-21",
+    "name": "S. Proctor",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "400033": {
+    "birth_date": "2005-06-11",
+    "name": "Timur Tuterov",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "401098": {
+    "birth_date": "2008-04-04",
+    "name": "L. Rawlings",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "401278": {
+    "birth_date": "2005-09-20",
+    "name": "M. Kant\u00e9",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "402317": {
+    "birth_date": "2006-11-30",
+    "name": "R. Donovan",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "402329": {
+    "birth_date": "2006-09-22",
+    "name": "A. Heaven",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "402331": {
+    "birth_date": "2006-12-16",
+    "name": "R. Munro",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "402432": {
+    "birth_date": "2004-09-04",
+    "name": "Ben Winterburn",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "402434": {
+    "birth_date": "2006-03-06",
+    "name": "Remy Rees-Dottin",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "402524": {
+    "birth_date": "2006-10-20",
+    "name": "A. Harrison",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "402640": {
+    "birth_date": "2005-05-13",
+    "name": "R. Esse",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "403064": {
+    "birth_date": "2007-05-16",
+    "name": "H. Amass",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "403221": {
+    "birth_date": "2007-09-13",
+    "name": "K. Ranson",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "403554": {
+    "birth_date": "2003-05-19",
+    "name": "Christantus Uche",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "404574": {
+    "birth_date": "2006-02-09",
+    "name": "Luis Guilherme",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "404769": {
+    "birth_date": "2008-01-25",
+    "name": "Bendito Mantato",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "405360": {
+    "birth_date": "2007-01-19",
+    "name": "H. Armstrong",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "405530": {
+    "birth_date": "2007-01-16",
+    "name": "Ezra Mayers",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "406303": {
+    "birth_date": "2007-05-04",
+    "name": "K. P\u00e1ez",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "407032": {
+    "birth_date": "2006-11-18",
+    "name": "A. Nallo",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "407033": {
+    "birth_date": "2005-12-10",
+    "name": "Ismeal Kabia",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "407806": {
+    "birth_date": "2006-08-03",
+    "name": "Rayan",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "408128": {
+    "birth_date": "2006-10-02",
+    "name": "Ellis Lehane",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "409047": {
+    "birth_date": "2006-12-21",
+    "name": "G. Leoni",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "409303": {
+    "birth_date": "2004-12-28",
+    "name": "E. Diouf",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "409798": {
+    "birth_date": "2006-07-20",
+    "name": "Louie George Copley",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "41104": {
+    "birth_date": "1995-07-09",
+    "name": "Jo\u00e3o Palhinha",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "412079": {
+    "birth_date": "2007-01-16",
+    "name": "P. Fearon",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "412086": {
+    "birth_date": "2008-03-09",
+    "name": "F. Simmonds",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "412719": {
+    "birth_date": "2007-06-28",
+    "name": "Veljko Milosavljevi\u0107",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "412759": {
+    "birth_date": "2006-07-29",
+    "name": "J. Canvot",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "413034": {
+    "birth_date": "2007-11-07",
+    "name": "B. Graham",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "414359": {
+    "birth_date": "2006-01-12",
+    "name": "Vitor Nunes",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "414385": {
+    "birth_date": "2006-01-02",
+    "name": "C. Echeverri",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "414455": {
+    "birth_date": "2006-06-16",
+    "name": "Souza",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "415992": {
+    "birth_date": "2007-04-27",
+    "name": "K. Mi\u015bciur",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "41606": {
+    "birth_date": "1999-01-16",
+    "name": "Toti Gomes",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "41621": {
+    "birth_date": "1998-08-27",
+    "name": "Matheus Nunes",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "416250": {
+    "birth_date": "2006-10-19",
+    "name": "T. Carroll",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "416252": {
+    "birth_date": "2008-01-25",
+    "name": "L. Awesu",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "416256": {
+    "birth_date": "2006-11-08",
+    "name": "Marley Leuluai",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "416697": {
+    "birth_date": "2008-07-15",
+    "name": "J. Porter",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "41725": {
+    "birth_date": "2000-05-30",
+    "name": "F\u00e1bio Vieira",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "417653": {
+    "birth_date": "2007-06-30",
+    "name": "J. Derry",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "418210": {
+    "birth_date": "2006-02-03",
+    "name": "S. Kon\u00e9",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "418403": {
+    "birth_date": "2007-02-07",
+    "name": "Jaden Dixon",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "418942": {
+    "birth_date": "2007-03-06",
+    "name": "J. Wilson",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "422780": {
+    "birth_date": "2005-04-29",
+    "name": "A. Anselmino",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "423708": {
+    "birth_date": "2006-04-16",
+    "name": "Yang Min-Hyeok",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "423714": {
+    "birth_date": "2007-03-17",
+    "name": "Park Seung-Soo",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "425733": {
+    "birth_date": "2007-04-24",
+    "name": "Est\u00eav\u00e3o",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "427736": {
+    "birth_date": "2005-11-20",
+    "name": "Gustavo Gomes",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "428076": {
+    "birth_date": "2005-08-30",
+    "name": "M. Aleksi\u00c4\u0087",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "430734": {
+    "birth_date": "2006-01-10",
+    "name": "Y. Konak",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "430827": {
+    "birth_date": "2005-10-09",
+    "name": "Benjamin Arthur",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "431387": {
+    "birth_date": "2007-12-14",
+    "name": "J. Gracey",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "431921": {
+    "birth_date": "2006-06-02",
+    "name": "Adam Aznou Ben Cheikh",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "432401": {
+    "birth_date": "2005-11-11",
+    "name": "Pele Arganese-McDermott",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "432404": {
+    "birth_date": "2006-11-13",
+    "name": "J. Ajala",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "434180": {
+    "birth_date": "2007-04-25",
+    "name": "Aidan Borland",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "436443": {
+    "birth_date": "2007-07-04",
+    "name": "J. Kusi-Asare",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "44": {
+    "birth_date": "1996-06-22",
+    "name": "Rodri",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "440159": {
+    "birth_date": "2008-02-06",
+    "name": "G. Kukonki",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "442044": {
+    "birth_date": "2009-12-31",
+    "name": "M. Dowman",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "442048": {
+    "birth_date": "2008-06-24",
+    "name": "R. McAidoo",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "443634": {
+    "birth_date": "2008-10-08",
+    "name": "H. Gray",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "44871": {
+    "birth_date": "2002-06-10",
+    "name": "A. Hickey",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "448969": {
+    "birth_date": "2008-01-19",
+    "name": "Reigan Heskey",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "449076": {
+    "birth_date": "2007-03-28",
+    "name": "Nils Ramming",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "44912": {
+    "birth_date": "1992-03-27",
+    "name": "M. Gillespie",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "449245": {
+    "birth_date": "2006-07-01",
+    "name": "Pedro Lima",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "449509": {
+    "birth_date": "2006-04-11",
+    "name": "Abdulay Bah",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "44994": {
+    "birth_date": "1990-11-14",
+    "name": "V. Hladk\u00fd",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "451583": {
+    "birth_date": "2008-03-25",
+    "name": "K. Braithwaite",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "451587": {
+    "birth_date": "2007-11-04",
+    "name": "A. Golambeckis",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "452427": {
+    "birth_date": "2007-05-19",
+    "name": "R. Oakley",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "452685": {
+    "birth_date": "2008-08-29",
+    "name": "R. Ngumoha",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "453101": {
+    "birth_date": "2008-03-04",
+    "name": "B. Burrows",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "454935": {
+    "birth_date": "2008-01-18",
+    "name": "L. Emenalo",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "456206": {
+    "birth_date": "2007-09-16",
+    "name": "M. Mane",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "456637": {
+    "birth_date": "2007-04-07",
+    "name": "O. Pimlott",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "457731": {
+    "birth_date": "2007-12-27",
+    "name": "A. Annous",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "459203": {
+    "birth_date": "2008-03-10",
+    "name": "M. Hardy",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "463908": {
+    "birth_date": "2008-10-02",
+    "name": "B. Bailey-Joseph",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "464004": {
+    "birth_date": "2006-05-05",
+    "name": "Alysson Edward",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "465310": {
+    "birth_date": "2008-04-01",
+    "name": "L. Williams-Barnett",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "465942": {
+    "birth_date": "2008-08-02",
+    "name": "T. Thompson",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "467839": {
+    "birth_date": "2008-03-10",
+    "name": "J. Byfield",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "46815": {
+    "birth_date": "1997-01-16",
+    "name": "Pau Torres",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "472252": {
+    "birth_date": "2007-07-03",
+    "name": "M. Kon\u00e9",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "47311": {
+    "birth_date": "1996-06-22",
+    "name": "Mikel Merino",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "47315": {
+    "birth_date": "1999-02-02",
+    "name": "Mart\u00edn Zubimendi",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "47380": {
+    "birth_date": "1998-07-22",
+    "name": "Marc Cucurella",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "47438": {
+    "birth_date": "1996-01-01",
+    "name": "M. Jensen",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "47499": {
+    "birth_date": "1997-05-10",
+    "name": "E. \u00dcnal",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "47519": {
+    "birth_date": "1999-09-13",
+    "name": "Pedro Porro",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "47521": {
+    "birth_date": "1997-02-05",
+    "name": "P. Roberts",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "47522": {
+    "birth_date": "1998-05-09",
+    "name": "Douglas Luiz",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "475598": {
+    "birth_date": "2007-04-03",
+    "name": "D. Le\u00f3n",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "47903": {
+    "birth_date": "1998-10-21",
+    "name": "H. Ekdal",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "47969": {
+    "birth_date": "1999-04-29",
+    "name": "G. Gudmundsson",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "482888": {
+    "birth_date": "2008-10-20",
+    "name": "R. Walsh",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "482903": {
+    "birth_date": "2009-08-29",
+    "name": "M. Salmon",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "482915": {
+    "birth_date": "2007-11-30",
+    "name": "L. Routh",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "48389": {
+    "birth_date": "2000-05-24",
+    "name": "N. Okafor",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "48648": {
+    "birth_date": "2000-10-25",
+    "name": "D. Ndoye",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "498377": {
+    "birth_date": "2008-04-03",
+    "name": "W. Wright",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "498864": {
+    "birth_date": "2006-06-06",
+    "name": "L. Sillah",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "5": {
+    "birth_date": "1995-07-19",
+    "name": "M. Akanji",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "50132": {
+    "birth_date": "1998-04-14",
+    "name": "A. Bay\u0131nd\u0131r",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "50739": {
+    "birth_date": "2000-10-22",
+    "name": "B. Aaronson",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "50856": {
+    "birth_date": "1998-10-03",
+    "name": "V. Castellanos",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "51051": {
+    "birth_date": "2001-08-13",
+    "name": "J. Araujo",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "513316": {
+    "birth_date": "2007-10-01",
+    "name": "Luka Bentt",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "51494": {
+    "birth_date": "2001-04-11",
+    "name": "M. Ugarte",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "526": {
+    "birth_date": "1996-04-02",
+    "name": "A. Onana",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "532": {
+    "birth_date": "1999-08-12",
+    "name": "M. de Ligt",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "537": {
+    "birth_date": "1992-01-15",
+    "name": "J. Veltman",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "542": {
+    "birth_date": "2002-05-16",
+    "name": "R. Gravenberch",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "545": {
+    "birth_date": "1997-11-14",
+    "name": "N. Mazraoui",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "55904": {
+    "birth_date": "1999-09-22",
+    "name": "D. Ballard",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "567": {
+    "birth_date": "1997-05-14",
+    "name": "R\u00faben Dias",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "575": {
+    "birth_date": "1999-08-19",
+    "name": "Florentino",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "5996": {
+    "birth_date": "2001-01-17",
+    "name": "E. Fern\u00e1ndez",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "6056": {
+    "birth_date": "1998-06-28",
+    "name": "N. Dom\u00ednguez",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "61431": {
+    "birth_date": "2000-02-15",
+    "name": "J. Kiwior",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "6168": {
+    "birth_date": "1996-12-26",
+    "name": "O. Alderete",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "617": {
+    "birth_date": "1993-08-17",
+    "name": "Ederson",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "61742": {
+    "birth_date": "2001-10-13",
+    "name": "H. Valdimarsson",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "626": {
+    "birth_date": "1994-05-28",
+    "name": "J. Stones",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "627": {
+    "birth_date": "1990-05-28",
+    "name": "K. Walker",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "631": {
+    "birth_date": "2000-05-28",
+    "name": "P. Foden",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "633": {
+    "birth_date": "1990-10-24",
+    "name": "\u0130. G\u00fcndo\u011fan",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "63577": {
+    "birth_date": "2001-01-05",
+    "name": "M. Mudryk",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "636": {
+    "birth_date": "1994-08-10",
+    "name": "Bernardo Silva",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "64003": {
+    "birth_date": "1999-08-11",
+    "name": "P. Struijk",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "641": {
+    "birth_date": "1996-12-15",
+    "name": "O. Zinchenko",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "64167": {
+    "birth_date": "2004-05-15",
+    "name": "G. S\u0142onina",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "643": {
+    "birth_date": "1997-04-03",
+    "name": "Gabriel Jesus",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "657": {
+    "birth_date": "1995-10-09",
+    "name": "K. Tete",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "6610": {
+    "birth_date": "1997-05-10",
+    "name": "M. Senesi",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "66407": {
+    "birth_date": "1999-04-20",
+    "name": "L. Krej\u010d\u00ed",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "665": {
+    "birth_date": "1996-09-27",
+    "name": "M. Cornet",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "671": {
+    "birth_date": "1995-09-06",
+    "name": "B. Traor\u00e9",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "6716": {
+    "birth_date": "1998-12-24",
+    "name": "A. Mac Allister",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "67943": {
+    "birth_date": "2001-06-30",
+    "name": "Morato",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "67971": {
+    "birth_date": "2000-07-13",
+    "name": "M. Gu\u00e9hi",
+    "team_id": 52,
+    "team_name": "Crystal Palace"
+  },
+  "67972": {
+    "birth_date": "2000-02-06",
+    "name": "C. Gallagher",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "68466": {
+    "birth_date": "2000-05-13",
+    "name": "A. Irving",
+    "team_id": 48,
+    "team_name": "West Ham"
+  },
+  "697": {
+    "birth_date": "1999-07-24",
+    "name": "M. Solomon",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "70100": {
+    "birth_date": "2001-05-22",
+    "name": "J. Zirkzee",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "70366": {
+    "birth_date": "1996-02-13",
+    "name": "John",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "723": {
+    "birth_date": "1996-08-14",
+    "name": "Joelinton",
+    "team_id": 34,
+    "team_name": "Newcastle"
+  },
+  "727": {
+    "birth_date": "1999-12-10",
+    "name": "R. Nelson",
+    "team_id": 55,
+    "team_name": "Brentford"
+  },
+  "747": {
+    "birth_date": "1992-02-23",
+    "name": "Casemiro",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "7600": {
+    "birth_date": "1998-02-07",
+    "name": "Igor",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "7722": {
+    "birth_date": "1997-07-07",
+    "name": "S. Kalajdzic",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "792": {
+    "birth_date": "1999-05-05",
+    "name": "J. Kluivert",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "80296": {
+    "birth_date": "1997-12-10",
+    "name": "Lucas Perri",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "81573": {
+    "birth_date": "1999-02-07",
+    "name": "Omar Marmoush",
+    "team_id": 50,
+    "team_name": "Manchester City"
+  },
+  "82855": {
+    "birth_date": "1995-03-09",
+    "name": "T. King",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "833": {
+    "birth_date": "1999-02-05",
+    "name": "J. Bijol",
+    "team_id": 63,
+    "team_name": "Leeds"
+  },
+  "84082": {
+    "birth_date": "1998-07-14",
+    "name": "R. Faivre",
+    "team_id": 35,
+    "team_name": "Bournemouth"
+  },
+  "84087": {
+    "birth_date": "2000-08-27",
+    "name": "W. Isidor",
+    "team_id": 746,
+    "team_name": "Sunderland"
+  },
+  "8500": {
+    "birth_date": "1993-02-09",
+    "name": "W. Endo",
+    "team_id": 40,
+    "team_name": "Liverpool"
+  },
+  "8598": {
+    "birth_date": "1997-08-12",
+    "name": "T. Awoniyi",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "863": {
+    "birth_date": "1997-06-25",
+    "name": "R. Bentancur",
+    "team_id": 47,
+    "team_name": "Tottenham"
+  },
+  "886": {
+    "birth_date": "1999-03-18",
+    "name": "Diogo Dalot",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "889": {
+    "birth_date": "1994-07-17",
+    "name": "V. Lindel\u00f6f",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "891": {
+    "birth_date": "1995-07-12",
+    "name": "L. Shaw",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "895": {
+    "birth_date": "2001-03-13",
+    "name": "J. Garner",
+    "team_id": 45,
+    "team_name": "Everton"
+  },
+  "896": {
+    "birth_date": "2000-08-31",
+    "name": "A. Gomes",
+    "team_id": 39,
+    "team_name": "Wolves"
+  },
+  "899": {
+    "birth_date": "1996-01-01",
+    "name": "Andreas Pereira",
+    "team_id": 36,
+    "team_name": "Fulham"
+  },
+  "90590": {
+    "birth_date": "2002-04-20",
+    "name": "G. Rutter",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "909": {
+    "birth_date": "1997-10-31",
+    "name": "M. Rashford",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  },
+  "92993": {
+    "birth_date": "1999-11-16",
+    "name": "M. Wieffer",
+    "team_id": 51,
+    "team_name": "Brighton"
+  },
+  "9366": {
+    "birth_date": "2001-02-25",
+    "name": "Igor Jesus",
+    "team_id": 65,
+    "team_name": "Nottingham Forest"
+  },
+  "95": {
+    "birth_date": "2001-03-26",
+    "name": "B. Badiashile",
+    "team_id": 49,
+    "team_name": "Chelsea"
+  },
+  "978": {
+    "birth_date": "1999-06-11",
+    "name": "K. Havertz",
+    "team_id": 42,
+    "team_name": "Arsenal"
+  },
+  "983": {
+    "birth_date": "1997-08-09",
+    "name": "L. Bailey",
+    "team_id": 66,
+    "team_name": "Aston Villa"
+  },
+  "98936": {
+    "birth_date": "2000-09-03",
+    "name": "L. Foster",
+    "team_id": 44,
+    "team_name": "Burnley"
+  },
+  "9971": {
+    "birth_date": "2000-02-24",
+    "name": "Antony",
+    "team_id": 33,
+    "team_name": "Manchester United"
+  }
+}
